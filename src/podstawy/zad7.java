@@ -1,3 +1,5 @@
+package podstawy;
+
 public class zad7 {
     public static void main(String[] args) {
         double sprzedazMazowieckie = 0.62;

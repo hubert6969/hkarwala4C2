@@ -1,3 +1,5 @@
+package podstawy;
+
 public class zad19 {
     public static void main(String[] args) {
         int konsumenci = 12467;
