@@ -41,7 +41,7 @@ public class zad7 {
                 System.out.println(imie1);
             }
         } else {
-            System.out.println("Podałeś złe dane!");
+            System.out.println("Podałeś złe dane");
         }
     }
 }

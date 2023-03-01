@@ -34,7 +34,7 @@ public class zad8 {
             System.out.println("Kwota zakupu po przyznanym rabacie 20% wynosi: "+cena_koncowa+"zl");
         }
         else{
-            System.out.println("Nie kupiles wystarczajacej ilosci sztuk aby dostac rabat");
+            System.out.println("Nie kupiles wystarczajacej ilosci aby dostac rabat");
         }
 
     }
